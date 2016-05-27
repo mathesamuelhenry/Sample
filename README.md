@@ -1,2 +1,2 @@
 # Sample
-My Sample Repository
+Sample GITGUB Repository is a sample github to teach "ME"
